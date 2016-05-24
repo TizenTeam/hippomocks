@@ -1,0 +1,16 @@
+Source: hippomocks
+Priority: optional
+Maintainer: Philippe Coval <rzr@users.sf.net>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Section: libs
+Homepage: http://www.hippomocks.com
+
+Package: hippomocks
+Section: libdevel
+Architecture: any
+Depends: ${misc:Depends}
+Description: C++ mocking framework
+ An easily usable mocking framework for C++ that allows you to
+ instantiate derived typeswhilst making your test,
+ without explicitly writing classes to do so.

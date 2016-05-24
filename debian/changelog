@@ -1,0 +1,5 @@
+hippomocks (5.0-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #826582)
+
+ -- Philippe Coval <rzr@users.sf.net>  Tue, 24 May 2016 05:58:23 -0400
