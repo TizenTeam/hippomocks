@@ -1,7 +1,7 @@
 Source: hippomocks
 Priority: optional
 Maintainer: Philippe Coval <rzr@users.sf.net>
-Build-Depends: debhelper (>= 9)
+Build-Depends: debhelper (>= 9), cmake
 Standards-Version: 3.9.8
 Section: libs
 Homepage: http://www.hippomocks.com
