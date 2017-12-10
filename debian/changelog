@@ -1,4 +1,4 @@
-hippomocks (5.0-1) UNRELEASED; urgency=medium
+hippomocks (5.0-1) unstable; urgency=medium
 
   * Initial release (Closes: #826582)
 
